@@ -18,6 +18,17 @@ Flight Tracker is a Django-based web application designed to provide airlines wi
 - SQL: Structured Query Language for efficient database operations.
 - CSS: Cascading Style Sheets for styling the user interface.
 
+#UI
+
+<img width="1468" alt="Screenshot 2024-01-14 at 3 23 12 PM" src="https://github.com/krishpbshah/Flight-Tracker/assets/64669781/85f8f5c0-1a19-4c93-9c60-bb6171957e09">
+<img width="1470" alt="Screenshot 2024-01-14 at 3 23 25 PM" src="https://github.com/krishpbshah/Flight-Tracker/assets/64669781/2a7813a5-bb38-4efd-a57c-c4b1a4a5e346">
+<img width="1470" alt="Screenshot 2024-01-14 at 3 24 33 PM" src="https://github.com/krishpbshah/Flight-Tracker/assets/64669781/55603025-f164-4eae-92d4-64f95b9b50b2">
+<img width="1144" alt="Screenshot 2024-01-14 at 3 24 43 PM" src="https://github.com/krishpbshah/Flight-Tracker/assets/64669781/3625f134-f18c-4c0c-acc9-d3ef7670c8bf">
+<img width="1141" alt="Screenshot 2024-01-14 at 3 24 52 PM" src="https://github.com/krishpbshah/Flight-Tracker/assets/64669781/c0970a45-ad42-4094-b4f3-ec47574e70d6">
+<img width="1141" alt="Screenshot 2024-01-14 at 3 25 28 PM" src="https://github.com/krishpbshah/Flight-Tracker/assets/64669781/86d37fff-0534-48e9-a6e5-86f9b3342d1a">
+
+
+
 ## Main Code:
 
 - Models In Django For Functionality:
